@@ -1,19 +1,14 @@
 #contenido{
-		padding-top: 10px 20px 30px 40px;
-		background: pink;
-		border: 7px solid purple;
-	}
-
+	/* Padding para separar el espacio entre el contenido y el borde*/
+	padding: 10px 20px 30px 40px;
+	background: pink;
+	border: 7px solid purple;
+}
 h1{
      border: 3px dashed black;
      background: white;
      text-align: center;
      font-family: cursive;
+     /* Margin para separar el borde y otro elemento*/
      margin: 20px 20px 80px 40px;
-
-}
-
-img{
-	width: 50px;
-	height: 50px;
 }
